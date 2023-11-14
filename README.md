@@ -11,18 +11,23 @@ Test assignment  for the Junior Python Developer position
 
 
 # 1 Пример
+
 ![alt text](screenshots/1-1.jpg)
 ![alt text](screenshots/1-2.jpg)
 ![alt text](screenshots/1-3.jpg)
 
 # 2 Пример
+
 ![alt text](screenshots/2-1.jpg)
 ![alt text](screenshots/2-2.jpg)
 ![alt text](screenshots/2-3.jpg)
 
 # 3 Пример
+
 ![alt text](screenshots/3-1.jpg)
 ![alt text](screenshots/3-2.jpg)
 ![alt text](screenshots/3-3.jpg)
 
+# Покрытие вышками без учета бюджета 
 
+![alt text](screenshots/without_budget.jpg)
