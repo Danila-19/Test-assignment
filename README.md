@@ -9,3 +9,20 @@ Test assignment  for the Junior Python Developer position
 4. pip install -r requirements.txt
 5. python main.py
 
+
+# 1 Пример
+![alt text](screenshots/1-1.jpg)
+![alt text](screenshots/1-2.jpg)
+![alt text](screenshots/1-3.jpg)
+
+# 2 Пример
+![alt text](screenshots/2-1.jpg)
+![alt text](screenshots/2-2.jpg)
+![alt text](screenshots/2-3.jpg)
+
+# 3 Пример
+![alt text](screenshots/3-1.jpg)
+![alt text](screenshots/3-2.jpg)
+![alt text](screenshots/3-3.jpg)
+
+
